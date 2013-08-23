@@ -26,7 +26,7 @@ hahhah  ﾊｧﾊｧ...
 CONFIG                                                     *hahhah-introduction*
 
 This plugin provide autoload function |hahhah#get_text()|. So you can contain
-the function into your 'statusilne' option like following.
+the function into your 'statusline' option like following.
 >
   set statusline=%=%{hahhah#get_text()}
 <
